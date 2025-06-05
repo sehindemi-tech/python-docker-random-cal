@@ -27,18 +27,13 @@ docker run -it random-number-generator
 
     The -it flag ensures the container runs interactively and accepts input.
 
-### 🗂️ Project Structure
-
-random-number-generator/
-├── Dockerfile
-├── random_number.py
-└── README.md
 
 ### 📝 Example Output
 
 Please enter the min number: 10
 Please enter the max number: 50
 27
+
 
 ### 📦 Dockerfile Sample
 
